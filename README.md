@@ -7,6 +7,12 @@ The game is made in assembly language.
 DOSBOX
 
 
+# Features:
+Day and night cycle
+A UFO obstacle with high speed
+Highest score saved
+
+
 Game Screenshots:
 
 ![WhatsApp Image 2022-04-08 at 9 39 51 AM](https://user-images.githubusercontent.com/64328883/162508934-b2252e0a-f532-4b57-a002-68f1c30d0457.jpeg)
