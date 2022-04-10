@@ -8,9 +8,9 @@ DOSBOX
 
 
 # Features:
-Day and night cycle
-A UFO obstacle with high speed
-Highest score saved
+-Day and night cycle
+-A UFO obstacle with high speed
+-Highest score saved
 
 
 Game Screenshots:
