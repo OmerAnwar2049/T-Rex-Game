@@ -12,7 +12,7 @@ The game is made in assembly language.
 * Run DOSBOX terminal
 * Go to bin directory
 * Enter the following commands
- (masm code.txt)
+   >(masm code.txt)
 
 
 ## Features:
