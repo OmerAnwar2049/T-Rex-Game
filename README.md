@@ -2,19 +2,26 @@
 An endless runner game inspired from the Dinosaur game on Google Chrome.
 The game is made in assembly language.
 
-# Tools Required
+## Tools Required
 
-MASM
-DOSBOX
+- MASM
+- DOSBOX
+
+## Running Game
+* Copy files into /bin folder in install directory
+* Run DOSBOX terminal
+* Go to bin directory
+* Enter the following commands
+ (masm code.txt)
 
 
-# Features:
+## Features:
 - Day and night cycle
 - A UFO obstacle with high speed
 - Highest score saved
 
 
-Game Screenshots:
+## Game Screenshots:
 
 ![WhatsApp Image 2022-04-08 at 9 39 51 AM](https://user-images.githubusercontent.com/64328883/162508934-b2252e0a-f532-4b57-a002-68f1c30d0457.jpeg)
 ![WhatsApp Image 2022-04-08 at 9 39 40 AM](https://user-images.githubusercontent.com/64328883/162508966-60f0469e-0770-4057-a399-5ebc6da78856.jpeg)
