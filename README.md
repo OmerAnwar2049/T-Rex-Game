@@ -12,8 +12,8 @@ The game is made in assembly language.
 * Run DOSBOX terminal
 * Go to bin directory
 * Enter the following commands
-   > masm code.txt
-   > code.asm
+   - masm code.txt
+   - code.asm
 
 ## How to play!
 * Press W for jump and S for ducking
