@@ -1,4 +1,4 @@
-# T-Rex Game
+#  T-Rex Game
 An endless runner game inspired from the Dinosaur game on Google Chrome.
 The game is made in assembly language.
 Game was made as final project for Assembly Language Course
